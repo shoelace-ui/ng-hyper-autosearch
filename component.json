@@ -1,0 +1,26 @@
+{
+  "name": "ng-hyper-autosearch",
+  "repo": "shoelace-ui/ng-hyper-autosearch",
+  "description": "Multi-value autosearch for AngularJS with Hypermedia",
+  "version": "0.0.1",
+  "license": "MIT",
+
+  "main": "dist/ngHyperAutosearch.js",
+
+  "scripts": [
+    "dist/ngHyperAutosearch.js"
+  ],
+
+  "styles": [
+    "dist/ngHyperAutosearch.css"
+  ],
+
+  "templates": [
+    "dist/tagList.html",
+    "dist/suggestionList.html"
+  ],
+
+  "development": {
+    "hypergroup/ng-hyper": "*"
+  }
+}

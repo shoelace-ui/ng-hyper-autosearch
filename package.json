@@ -1,0 +1,20 @@
+{
+  "name": "ng-hyper-autosearch",
+  "prettyName": "ngHyperAutosearch",
+  "version": "0.0.1",
+  "description": "Multi-value autosearch for AngularJS with Hypermedia",
+  "license": "MIT",
+  "homepage": "http://shoelace-ui.github.io/ng-hyper-autosearch",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shoelace-ui/ng-hyper-autosearch.git"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+    "stylus": "*",
+    "jade": "*",
+    "component": "*",
+    "shoelace-ui-media-queries": "shoelace-ui/media-queries"
+  }
+}
